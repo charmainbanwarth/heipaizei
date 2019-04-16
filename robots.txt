@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zielaibae.bbs-software.com/sitemap.xml
